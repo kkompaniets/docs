@@ -76,4 +76,4 @@ Yes, please submit your application for a second review so that we can check the
 
 ### Is it possible to send a picture of a product or a dish through API?
 
-No, it isn't possible. You can upload a photo only in the Poster management console in **Products → Products / Dishes**.
+No, it isn't possible. You can upload a photo only in the Poster management console in **Menu → Products / Dishes**.
